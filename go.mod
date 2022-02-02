@@ -1,4 +1,4 @@
-module grpcDockerGo
+module github.com/arxxm/go_grpc_docker
 
 go 1.13
 
